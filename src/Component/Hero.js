@@ -10,7 +10,7 @@ const heroText = {
 let imgUrls = [];
 
 for (let i = 1; i <= 6; i++) {
-  let url = `./img/customers/customer-${i}.jpg`;
+  let url = `img/customers/customer-${i}.jpg`;
   imgUrls.push(url);
 }
 
